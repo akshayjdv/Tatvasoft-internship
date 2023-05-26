@@ -1,0 +1,15 @@
+.center_{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
