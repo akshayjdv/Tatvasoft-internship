@@ -11,3 +11,4 @@ track record of everyday, work everyday and upload files/work of everyday.
 #day 5 - learned formik and form validation with yup
 #day 6 - learned fetch,axios and how to work with registration api,learn toastify
 #day 7 - login ui and intergration with login api
+#day 8 - implemented header component, footer component and error page and search functionality 
